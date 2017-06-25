@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Horizon</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="list_of_lights">List of Lights</string>
+    <string name="hourly_height_of_tides">Hourly Height of Tides</string>
+    <string name="notice_to_mariners">Notice to Mariners</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
